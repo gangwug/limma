@@ -8,3 +8,7 @@ RNA targets simultaneously in arbitrary complicated designed experiments. Empiri
 Bayesian methods are used to provide stable results even when the number of arrays
 is small. The normalization and data analysis functions are for two-color spotted microarrays. The linear model and differential expression functions apply to all microarray
 technologies including Affymetrix and other single-channel oligonucleotide platforms.
+
+
+devtools::install_github('gangwug/limma')
+
